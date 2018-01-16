@@ -1,4 +1,8 @@
 {
+  "name": "lceda-pro",
+  "version": "0.0.0",
+  "description": "",
+  "author": "LCSC",
   "private": true,
   "scripts": {
     "dev": "npm run development",
