@@ -31,3 +31,4 @@ resources/views/home/user/aaaa.blade.php
 /public/css/test.css
 /app/Http/Controllers/Test/TestController.php
 /app/Http/Controllers/Test/SearchFixController.php
+node_modules\.rar

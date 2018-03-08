@@ -33,9 +33,9 @@
   "dependencies": {
     "bootstrap": "^4.0.0",
     "di18n-translate": "0.0.9",
-    "jquery": "^3.1.1",
+    "jquery": "^3.3.1",
     "popper.js": "^1.12.9",
     "raven-js": "^3.22.1",
-    "tui-editor": "^1.0.2"
+    "tui-editor": "^1.0.4"
   }
 }
