@@ -31,6 +31,7 @@
     "stylelint-config-standard": "^18.0.0"
   },
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.0.0",
     "di18n-translate": "0.0.9",
     "jquery": "^3.3.1",
